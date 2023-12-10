@@ -39,3 +39,6 @@ A set of utility functions are provided for random selection, unit conversion, d
 
 - `handleOnMove`: Main event handler for mouse or touch movement, responsible for creating stars and glow effects.
 - `window.onmousemove` and `window.ontouchmove`: Event listeners for mouse and touch movements.
+
+## License
+This project is open source and available under the [MIT License](LICENSE).
